@@ -1,0 +1,13 @@
+{
+  "name": "telegraf-ask",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "array-chunk": "^1.0.0",
+    "telegraf": "^3.38.0",
+    "uuid": "^8.1.0"
+  }
+}
